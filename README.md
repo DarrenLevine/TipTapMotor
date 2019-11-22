@@ -14,6 +14,7 @@ Note: I used the LulzbotMini_TipTap.curaprofile on my lulzbot mini to get the ti
 * Qty 1. 6705 Thin Section Metric Ball Bearing Open 25x32x4
 * Qty 3. 623ZZ 3mm x 10mm x 4mm Shielded Deep Groove Precision Ball Bearings
 * Qty 3. Flat Head Screws M3 x 0.5 mm Thread, 6 mm Long (91420A116)
+* Qty 1. Small diametric encoder magnet such as: https://www.kjmagnetics.com/proddetail.asp?prod=d82dia
 
 ## Assembly according to cross section:
 ![](cross_section.jpg)
